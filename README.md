@@ -8,20 +8,9 @@
 - 🔭 **Currently working on:**  
   A project for **Adobe India Hackathon 2025** — building a fast, offline, and modular PDF reading system that extracts structured outlines (H1, H2, H3) like a human using **PyMuPDF**, **Tesseract**, and **Python multiprocessing**.
 
-- 🌱 **Currently learning:**  
-  AWS (EC2, S3, Lambda), OCR optimization, and scalable Python architecture.
-
 - 👯 **Looking to collaborate on:**  
   Full-stack apps, AI tools, cross-platform systems, Web3 dApps, and Spring Boot backends.
 
-- 🤔 **Need help with:**  
-  Optimizing OCR pipelines and parallel processing for large PDFs.
-
-- 💬 **Ask me about:**  
-  Hackathons, Python systems, PDF parsing, or backend dev.
-
-- ⚡ **Fun fact:**  
-  *I Love Tech and Tech Loves Me 💙*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay_v_jha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-jha-2b2658280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshayjha2006@gmail.com) 
