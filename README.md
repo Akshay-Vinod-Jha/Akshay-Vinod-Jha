@@ -5,9 +5,6 @@
 
 ---
 
-- 🔭 **Currently working on:**  
-  A project for **Adobe India Hackathon 2025** — building a fast, offline, and modular PDF reading system that extracts structured outlines (H1, H2, H3) like a human using **PyMuPDF**, **Tesseract**, and **Python multiprocessing**.
-
 - 👯 **Looking to collaborate on:**  
   Full-stack apps, AI tools, cross-platform systems, Web3 dApps, and Spring Boot backends.
 
