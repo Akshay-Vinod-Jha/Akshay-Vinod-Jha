@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Akshay Vinod Jha  
-**Full-Stack Developer | AI Enthusiast | Hackathon Explorer**
+**Full-Stack Developer | React Native | Spring Boot | AI Enthusias |Cloud Computing**
 
 📩 [akshayjha2006@gmail.com](mailto:akshayjha2006@gmail.com)
 
